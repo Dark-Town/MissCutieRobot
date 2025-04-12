@@ -29,17 +29,17 @@
     "TOKEN": {
        "description": "Your bot token. Get one from @BotFather duh",
        "required": true,
-       "value": ""
+       "value": "7592160672:AAFLR64XamUvETDgnlmbTvcRgmfMZlw6c-c"
     },
     "API_ID": {
        "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
        "required": true,
-       "value": "3160248"
+       "value": "24413166"
     },
     "API_HASH": {
        "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
        "required": true,
-       "value": "da866bcad3446898c4d4a20fa10b9d09"
+       "value": "7d43dfedf3baa98292adb7b3f69cd6bd"
     },    
     "SQLALCHEMY_DATABASE_URI": {
        "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -49,22 +49,22 @@
     "OWNER_ID": {
        "description": "Your user ID as an integer.",
        "required": true,
-       "value": "1697409878"
+       "value": "7080079152"
     },
 
     "BOT_NAME": {
        "description": "Insert below your bot, it will appear everywhere",
        "required": true,
-       "value": ""
+       "value": "PAID TECH ZONE"
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
-       "value": "PrinceXofficial"
+       "value": "TcronebNet"
     },
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
        "required": true,
-       "value": "MissCutie_Support"
+       "value": "paidtechzone"
     },
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
